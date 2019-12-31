@@ -10,4 +10,10 @@
 vagrant up
 ~~~
 
+- mount のエラーが出るときは
+
+~~~
+vagrant plugin install vagrant-vbguest
+~~~
+
 - https://app.vagrantup.com/centos/boxes/8
