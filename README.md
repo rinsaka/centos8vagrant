@@ -10,3 +10,4 @@
 vagrant up
 ~~~
 
+- https://app.vagrantup.com/centos/boxes/8
